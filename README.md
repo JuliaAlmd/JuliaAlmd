@@ -1,4 +1,4 @@
-### Hi guys! :)
+![Header](./github-header-banner.png)
 
 Sou estudante de Sistemas de Informação pela FAM, e estou no 3° semestre.
 Após algumas soft skills que desenvolvi através da minha experiência como técnica em administração — como a proatividade, trabalho em grupo e comunicação — hoje busco aprimorar minhas hard skills na tecnologia.
